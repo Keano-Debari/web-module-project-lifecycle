@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
-import Card from './Card';
-import Followers from './Followers';
+import Card from './Component/Card';
+import Followers from './Component/Followers';
 
 export default class App extends React.Component {
   constructor() {
